@@ -1,0 +1,14 @@
+{
+  "name": "clevertap-node-types",
+  "version": "0.0.1",
+  "description": "Testing clevertap node types",
+  "main": "index.js",
+  "repository": "git@github.com:droyson/test-repo.git",
+  "author": "Royson <roysondsilva@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "clevertap": "^1.2.0",
+    "typescript": "^4.5.2"
+  }
+}
