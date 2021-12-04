@@ -1,0 +1,14 @@
+{
+  "name": "clevertap-web-sdk-types",
+  "version": "0.0.1",
+  "description": "Testing clevertap-web-sdk types",
+  "main": "index.js",
+  "repository": "git@github.com:droyson/test-repo.git",
+  "author": "Royson <roysondsilva@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "clevertap-web-sdk": "^1.1.0",
+    "typescript": "^4.5.2"
+  }
+}
